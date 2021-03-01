@@ -1,0 +1,16 @@
+CSS? //////////
+ 
+body {
+    color: blue;
+    background: #c0d3ff;
+}
+ 
+span {
+    font-size: 50px;
+}
+ 
+#camera,
+#result {
+    border: 3px dashed black;
+    width: 320px;
+    height: 350px;
